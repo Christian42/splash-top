@@ -51,10 +51,6 @@ Port auto-detection checks, in order: the last-known port, the Splash `serve.loc
 
 While running: `q` quits, `r` refreshes/clears the screen.
 
-## Development
-
-Screenshot and license are coming soon.
-
 ## License
 
 MIT
